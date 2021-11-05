@@ -13,4 +13,4 @@ Note: there is one caveate to this. The Geofabrik extracts do not contain a land
 
 Any questions leave a note here.
 
-These are also version 1. So may be some updates.
+These are also version 1. So there may be some updates.
