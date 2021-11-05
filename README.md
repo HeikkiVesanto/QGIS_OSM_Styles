@@ -13,6 +13,6 @@ These styles you just need to copy into the same folder as your Shapefiles befor
 
 **Note2:** Any maps created using these styles need to contain the attribution: "© OpenStreetMap contributors"
 
-Any questions leave a note here.
+Any questions, feedback, tips, please leave a note here.
 
 These are also version 1. So there may be some updates.
