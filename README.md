@@ -9,7 +9,7 @@ I wanted to put together some styles that could be used with the Geofabrik (http
 
 These styles you just need to copy into the same folder as your Shapefiles before loading them into QGIS, put them in the same order as in the picture (order.png), and then once loaded they should symbolise correctly.
 
-**Note:** there is one caveate to this. The Geofabrik extracts do not contain a land/ocean layer. So you can create one. For Ireland using a filter on gis_osm_places_a_free_1: "fclass" = 'Island' is a good approximation. And there are then 2 styles for it, you just add the data twice, filer it, and add the styles to the two layers. Or you can use the land polygons from: https://osmdata.openstreetmap.de/data/land-polygons.html
+**Note:** there is one caveate to this. The Geofabrik extracts do not contain a land/ocean layer. So you can create one. For Ireland using a filter on gis_osm_places_a_free_1: "fclass" = 'Island' is a good approximation. And there are then 2 styles for it, you just add the data twice, filter it, and add the styles to the two layers. Or you can use the land polygons from: https://osmdata.openstreetmap.de/data/land-polygons.html
 
 **Note2:** Any maps created using these styles need to contain the attribution: "© OpenStreetMap contributors"
 
